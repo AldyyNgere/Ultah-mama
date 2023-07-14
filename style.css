@@ -26,7 +26,7 @@ p{
 h1{
     text-align: center;
     color: #fff;
-    font-size: 3.2rem;
+    font-size: 32px;
 }
 
 .img-box{
@@ -46,6 +46,7 @@ img{
     color: #fff;
     background: #05a29a;
     transition: .2s;
+   font-size: 16px;
 }
 
 .center button:hover{
