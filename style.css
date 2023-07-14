@@ -4,7 +4,7 @@ body{
     flex-direction: column;
     padding-top: 100px;
     font-family: 'Work Sans', sans-serif;
-    background: #00272c;
+    background: red;
 }
 
 p{
