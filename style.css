@@ -1,0 +1,51 @@
+body{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding-top: 50px;
+    font-family: 'Work Sans', sans-serif;
+    background: #00272c;
+}
+
+p{
+    text-align: center;
+    color: #fff;
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+}
+
+.container{
+    padding: 0 1rem;
+    display: none;
+}
+
+h1{
+    text-align: center;
+    color: #fff;
+}
+
+.img-box{
+    display: flex;
+    justify-content: center;
+}
+
+img{
+    width: 60%;
+    height: auto;
+}
+
+.center button{
+    border: none;
+    padding: 12px 24px;
+    border-radius: 50px;
+    color: #fff;
+    background: #05a29a;
+    transition: .2s;
+}
+
+.center button:hover{
+    background:#05928b;
+}
