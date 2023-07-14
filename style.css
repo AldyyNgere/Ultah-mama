@@ -2,7 +2,7 @@ body{
     display: flex;
     justify-content: center;
     flex-direction: column;
-    padding-top: 50px;
+    padding-top: 100px;
     font-family: 'Work Sans', sans-serif;
     background: #00272c;
 }
@@ -10,6 +10,7 @@ body{
 p{
     text-align: center;
     color: #fff;
+    font-size: 16px;
 }
 
 .center{
@@ -25,6 +26,7 @@ p{
 h1{
     text-align: center;
     color: #fff;
+    font-size: 3.2rem;
 }
 
 .img-box{
