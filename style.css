@@ -15,7 +15,7 @@ body{
 p{
     text-align: center;
     color: #fff;
-    font-size: 1.8rem;
+    font-size: 12rem;
 }
 
 .center{
@@ -51,7 +51,7 @@ img{
     color: #fff;
     background: #05a29a;
     transition: .2s;
-   font-size: 1.8rem;
+   font-size: 12rem;
 }
 
 .center button:hover{
