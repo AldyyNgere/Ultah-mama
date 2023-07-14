@@ -15,12 +15,13 @@ body{
 p{
     text-align: center;
     color: #fff;
-    font-size: 12rem;
+    font-size: 10rem;
 }
 
 .center{
     display: flex;
     justify-content: center;
+    padding-bottom: 50rem;
 }
 
 .container{
@@ -51,7 +52,7 @@ img{
     color: #fff;
     background: #05a29a;
     transition: .2s;
-   font-size: 12rem;
+   font-size: 10rem;
 }
 
 .center button:hover{
